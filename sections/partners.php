@@ -1,0 +1,1 @@
+<section id="partners" class="section"><div class="container"><p class="eyebrow">Партнёры и организаторы</p><h2>Организаторы и партнёры</h2><div class="grid4"><article class="card">ФУМО ВО ИБ</article><article class="card">МИРЭА</article><article class="card">Минобрнауки России</article><article class="card">Positive Technologies</article></div></div></section>

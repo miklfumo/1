@@ -1,0 +1,1 @@
+<section id="goals" class="section alt"><div class="container"><p class="eyebrow">Ключевые направления</p><h2>Цели конференции</h2><div class="grid4"><?php foreach($goals as $g): ?><article class="card"><div><?= $g['icon'] ?></div><h3><?= $g['title'] ?></h3><p><?= $g['description'] ?></p></article><?php endforeach; ?></div></div></section>

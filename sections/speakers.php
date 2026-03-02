@@ -1,0 +1,1 @@
+<section id="speakers" class="section"><div class="container"><p class="eyebrow">Спикеры</p><h2>Ключевые докладчики</h2><div class="grid4"><?php foreach($speakers as $s): ?><article class="speaker card"><div class="avatar">👤</div><h3><?= $s['name'] ?></h3><p class="primary"><?= $s['role'] ?></p><p><?= $s['topic'] ?></p></article><?php endforeach; ?></div></div></section>
